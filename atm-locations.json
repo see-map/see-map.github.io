@@ -1,0 +1,665 @@
+[
+  {
+    "id": 1,
+    "name": "BMS",
+    "latitude": 506.50,
+    "longitude": 3192.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 2,
+    "name": "Utánfutó bérlő",
+    "latitude": 694.000,
+    "longitude": 3156.000,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 3,
+    "name": "Mákvirág",
+    "latitude": 719.50,
+    "longitude": 2916.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 4,
+    "name": "Reptér",
+    "latitude": 657.50,
+    "longitude": 2904.50,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 5,
+    "name": "Reptér #2",
+    "latitude": 584.00,
+    "longitude": 2809.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 6,
+    "name": "ATM #4",
+    "latitude": 715.00,
+    "longitude": 2860.50,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 7,
+    "name": "Festőműhely",
+    "latitude": 841.50,
+    "longitude": 2875.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 8,
+    "name": "Taxitelep",
+    "latitude": 839.00,
+    "longitude": 2799.00,
+    "description": "2db",
+    "group": "Los Santos"
+  },
+
+
+  {
+    "id": 9,
+    "name": "Déli kút",
+    "latitude": 876.50,
+    "longitude": 2896.00,
+    "description": "2db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 10,
+    "name": "SeeBurger",
+    "latitude": 841.50,
+    "longitude": 2961.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 11,
+    "name": "Binco",
+    "latitude": 941.00,
+    "longitude": 3081.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 12,
+    "name": "Temple",
+    "latitude": 1122.50,
+    "longitude": 3071.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 13,
+    "name": "Autóker",
+    "latitude": 1221.00,
+    "longitude": 3015.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+  {
+    "id": 14,
+    "name": "Régi BMS",
+    "latitude": 1213.00,
+    "longitude": 2813.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 15,
+    "name": "Városháza",
+    "latitude": 886.00, 
+    "longitude": 2676.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 16,
+    "name": "Autós iskola",
+    "latitude": 882.00, 
+    "longitude": 2482.00,
+    "description": "2db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 17,
+    "name": "Pláza",
+    "latitude": 1041.00, 
+    "longitude": 2524.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 18,
+    "name": "Fegyverbolt",
+    "latitude": 1142.50, 
+    "longitude": 2616.50,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 19,
+    "name": "LS Kórház",
+    "latitude": 1127.50, 
+    "longitude": 2520.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 20,
+    "name": "Fánkozó",
+    "latitude": 1030.00, 
+    "longitude": 2435.50,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+   {
+    "id": 21,
+    "name": "Régi Bank",
+    "latitude": 1298.00, 
+    "longitude": 2654.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 22,
+    "name": "Északi Burger-shop",
+    "latitude": 1362.00, 
+    "longitude": 2542.00,
+    "description": "2db",
+    "group": "Los Santos"
+  },
+
+
+
+  {
+    "id": 23,
+    "name": "Északi benzinkút",
+    "latitude": 1351.00,
+    "longitude": 2439.00,
+    "description": "2db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 24,
+    "name": "LS Motorszervíz",
+    "latitude": 1300.00, 
+    "longitude": 2436.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 25,
+    "name": "LS Nagy kaszinó",
+    "latitude": 1248.00, 
+    "longitude": 2438.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 26,
+    "name": "LS Hajószervíz",
+    "latitude": 1078.00, 
+    "longitude": 2252.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 27,
+    "name": "Régi klubb",
+    "latitude": 1054.50,
+    "longitude":  2174.50,
+    "description": "2db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 28,
+    "name": "LS Ruhabolt",
+    "latitude": 1032.50, 
+    "longitude": 2133.50,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 29,
+    "name": "Kormányépület",
+    "latitude": 1042.50, 
+    "longitude": 2217.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 30,
+    "name": "Határ utáni feljáró",
+    "latitude": 1056.00, 
+    "longitude": 2058.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 31,
+    "name": "LS Alagút",
+    "latitude": 1168.00, 
+    "longitude": 2203.00,
+    "description": "3db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 32,
+    "name": "Teniszpálya",
+    "latitude": 1217.00, 
+    "longitude": 2304.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 33,
+    "name": "Régi autós iskola",
+    "latitude": 1120.00, 
+    "longitude": 2074.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  
+
+  {
+    "id": 34,
+    "name": "Club",
+    "latitude": 899.00,
+    "longitude":  2117.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+
+  {
+    "id": 35,
+    "name": "Régi Piac",
+    "latitude":738.00, 
+    "longitude": 2094.00,
+    "description": "1db",
+    "group": "Los Santos"
+  },
+  
+
+  {
+    "id": 36,
+    "name": "Határ utáni benzinkút",
+    "latitude": 1218.00, 
+    "longitude":  1849.50 ,
+    "description": "2db",
+    "group": "Flint County"
+  },
+  
+
+  {
+    "id": 37,
+    "name": "Dillimore Raktár",
+    "latitude": 1526.50, 
+    "longitude": 2321.50,
+    "description": "1db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 38,
+    "name": "Dillimore benzinkút",
+    "latitude": 1549.00, 
+    "longitude": 2248.00, 
+    "description": "1db",
+    "group": "Red County"
+  },
+
+
+  {
+    "id": 39,
+    "name": "Blueberry bolt",
+    "latitude": 1747.50, 
+    "longitude": 1985.00,
+    "description": "1db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 40,
+    "name": "Blueberry benzinkút",
+    "latitude": 1766.00, 
+    "longitude": 1948.50, 
+    "description": "2db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 41,
+    "name": "Zacis",
+    "latitude": 1833.00, 
+    "longitude": 2029.00,
+    "description": "2db",
+    "group": "Red County"
+  },
+
+  {
+    "id": 42,
+    "name": "Montgomery benzinkút",
+    "latitude": 2113.00, 
+    "longitude": 2631.50,
+    "description": "2db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 43,
+    "name": "Montgomery pizzázó",
+    "latitude": 2009.50, 
+    "longitude": 2629.00 ,
+    "description": "2db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 44,
+    "name": "Montgomery Kórház",
+    "latitude": 2044.50,
+    "longitude":  2552.00,
+    "description": "2db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 45,
+    "name": "Palomino #1",
+    "latitude": 1881.09, 
+    "longitude": 3222.72,
+    "description": "1db",
+    "group": "Red County"
+  },
+
+  {
+    "id": 46,
+    "name": "Palomino #2",
+    "latitude": 1838.59,  
+    "longitude": 3125.22,
+    "description": "1db",
+    "group": "Red County"
+  },
+  
+
+  {
+    "id": 47,
+    "name": "ATM",
+    "latitude": 489.00, 
+    "longitude": 1890.00,
+    "description": "1db",
+    "group": "Flint County"
+  },
+  
+
+  {
+    "id": 48,
+    "name": "Angel Pine farmok",
+    "latitude": 364.00, 
+    "longitude":  1074.00,
+    "description": "1db",
+    "group": "Flint County"
+  },
+  
+
+  {
+    "id": 49,
+    "name": "Angel Pine benzinkút",
+    "latitude": 524.00, 
+    "longitude": 766.00,
+    "description": "1db",
+    "group": "Flint County"
+  },
+
+  {
+    "id": 50,
+    "name": "APMS",
+    "latitude": 925.00, 
+    "longitude": 913.00,
+    "description": "1db",
+    "group": "Flint County"
+  },
+  
+
+  {
+    "id": 51,
+    "name": "Mezőgazdasági nagyker",
+    "latitude": 1033.00,  
+    "longitude": 1144.00,
+    "description": "1db",
+    "group": "Flint County"
+  },
+  
+
+  {
+    "id": 52,
+    "name": "PF",
+    "latitude": 1328.00,
+    "longitude":  779.00,
+    "description": "1db",
+    "group": "Flint County"
+  },
+  
+
+  {
+    "id": 53,
+    "name": "SeeRing benzinkút",
+    "latitude": 1845.00, 
+    "longitude": 1243.00,
+    "description": "2db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 54,
+    "name": "SeeRing",
+    "latitude": 1863.00,
+    "longitude":  1152.00,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+  
+
+  {
+    "id": 55,
+    "name": "Régi SF tuning",
+    "latitude": 1864.00, 
+    "longitude": 1015.50,
+    "description": "2db",
+    "group": "San Fierro"
+  },
+  
+
+  {
+    "id": 56,
+    "name": "SF benzinkút",
+    "latitude": 2086.00, 
+    "longitude": 1010.00,
+    "description": "2db",
+    "group": "San Fierro"
+  },
+  
+
+  {
+    "id": 57,
+    "name": "Tűzoltóság",
+    "latitude": 1847.00, 
+    "longitude": 795.00,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 58,
+    "name": "SF Bank",
+    "latitude": 2176.50, 
+    "longitude": 871.50,
+    "description": "3db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 59,
+    "name": "SF Motel",
+    "latitude": 1931.50, 
+    "longitude": 611.50,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 60,
+    "name": "SF Fegyverbolt",
+    "latitude": 1968.00, 
+    "longitude": 514.50,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 61,
+    "name": "SF Motorszervíz",
+    "latitude": 1979.00, 
+    "longitude": 468.00,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 62,
+    "name": "SF ATM #1",
+    "latitude": 2029.00, 
+    "longitude": 537.00,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 63,
+    "name": "SF ATM #2",
+    "latitude": 2063.00, 
+    "longitude": 452.00,
+    "description": "2db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 64,
+    "name": "Supasave",
+    "latitude": 2275.00, 
+    "longitude": 607.00,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 65,
+    "name": "SF kaszinó",
+    "latitude": 2353.00, 
+    "longitude": 950.00,
+    "description": "2db",
+    "group": "San Fierro"
+  },
+
+  {
+    "id": 66,
+    "name": "SF Ruhabolt",
+    "latitude": 2378.00, 
+    "longitude": 1003.00,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+  
+   {
+    "id": 67,
+    "name": "Fix&Drive",
+    "latitude": 2313.50, 
+    "longitude": 1116.50,
+    "description": "1db",
+    "group": "San Fierro"
+  },
+
+   {
+    "id": 68,
+    "name": "Érces",
+    "latitude": 3233.00, 
+    "longitude": 606.50,
+    "description": "1db",
+    "group": "Tierra Robada"
+  },
+
+   {
+    "id": 69,
+    "name": "ATM #3",
+    "latitude": 3291.00, 
+    "longitude": 1107.50,
+    "description": "1db",
+    "group": "Tierra Robada"
+  },
+
+   {
+    "id": 70,
+    "name": "Tierra Robada benzinkút",
+    "latitude": 3332.00,
+    "longitude":  1226.50,
+    "description": "2db",
+    "group": "Tierra Robada"
+  },
+
+{
+    "id": 71,
+    "name": "Tierra Robada bolt",
+    "latitude": 2855.00, 
+    "longitude":  1266.00,
+    "description": "1db",
+    "group": "Tierra Robada"
+  },
+
+  {
+    "id": 72,
+    "name": "Tierra Robada Bank",
+    "latitude": 2697.00, 
+    "longitude":  1463.00,
+    "description": "2db",
+    "group": "Tierra Robada"
+  }
+
+  
+
+
+
+
+]
