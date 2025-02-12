@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seemta V4 - Interaktív Térkép</title>
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/favico.ico">
+    <style>
+        #map {
+            height: 100vh; /* A térkép kitölti az ablakot */
+        }
+      
+    </style>
+
+  
+</head>
+<body>
+
+    <!-- Gombok konténer -->
+    <div id="header-buttons">
+        <button id="toggle-instructions">Changelog ▼</button>
+        <button id="reset-atms">Visszaállítás</button>
+    </div>
+
+    <!-- Tippek lenyíló panel -->
+    <div id="instructions-panel">
+        <p><br><b>2025.02.12</b></br>~ Több ATM hozzáadva, hibajavítások. </p>
+        
+    </div>
+
+    <!-- Térkép -->
+    <div id="map"></div>
+
+<!-- Lábléc szövegek -->
+    <div id="footer-text">
+        made with: ChatGPT
+    </div>
+    
+   
+    <!-- Csoportválasztó menü -->
+    <div id="group-selector">
+        <label><input type="checkbox" name="group" value="Los Santos" checked> Los Santos</label><br>
+        <label><input type="checkbox" name="group" value="San Fierro" checked> San Fierro</label><br>
+        <label><input type="checkbox" name="group" value="Red County" checked> Red County</label><br>
+        <label><input type="checkbox" name="group" value="Flint County" checked> Flint County</label><br>
+        <label><input type="checkbox" name="group" value="Tierra Robada" checked> Tierra Robada</label>
+    </div>
+
+
+
+    <!-- Script-ek -->
+    <script src="js/leaflet.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

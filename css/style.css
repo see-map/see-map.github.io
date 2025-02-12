@@ -1,0 +1,140 @@
+/* Fejléc stílus */
+#main-header {
+    background-color: #343640; /* Fejléc színe */
+    color: white; /* Szöveg színe */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 3px 20px;
+    display: flex; /* Flexbox a tartalom elrendezéséhez */
+    justify-content: space-between; /* Térköz a cím és a gomb között */
+    align-items: center; /* Vertikális középre igazítás */
+    text-align: center;
+}
+
+/* Test színezése */
+body {
+    margin: 0;
+    background-color: #343640; /* Oldal háttérszíne */
+}
+
+/* A térkép margózása */
+#map {
+    margin-top: 5px; /* Helyet hagy a fejléc alatt */
+}
+
+
+
+#header-buttons {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    gap: 10px;
+    z-index: 1000; /* Mindig látható */
+}
+
+#reset-atms, #toggle-instructions {
+    padding: 7px 15px;
+    background-color: #4f6d8a; /* Gombok színe */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#reset-atms:hover {
+    background-color: #c9302c; /* Piros hover szín */
+}
+
+#toggle-instructions:hover {
+    background-color: #3b5871; /* Kék hover szín */
+}
+
+/* Tippek lenyíló panel alapstílusa */
+#instructions-panel {
+    display: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    border-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute; /* Fontos a pontos pozicionáláshoz */
+    top: 50px; /* A gomb alá kerül */
+    right: 15px; /* A gomb széléhez igazítás */
+    width: 250px; /* Fix szélesség, hogy ne legyen túl nagy */
+    z-index: 1000; /* Mindig felül legyen */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Árnyék a jobb kinézetért */
+    border-radius: 5px; /* Lekerekített sarkok */
+}
+
+/* A panel megjelenítése */
+#instructions-panel.show {
+    display: block; /* Ez teszi láthatóvá a panelt */
+}
+
+
+
+#group-selector {
+  position: absolute;
+  bottom: 11px;
+  right: 11px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  border-color: black;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  z-index: 1000;c
+}
+
+#group-selector label {
+  display: block;
+  cursor: pointer;
+}
+
+#group-selector input {
+  margin-right: 5px;
+}
+
+#info-panel {
+    position: fixed;
+    bottom: 11px;
+    right: 160px;
+    background: rgba(255, 255, 255, 0.8);
+    background-color: rgba(0, 0, 0, 0.5) ;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    border-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    width: 200px;
+    z-index: 1000;
+}
+
+#info-panel p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: white;
+}
+
+#footer-text {
+    position: absolute;
+    bottom: 11px;
+    left: 11px; /* Kisbetűs */
+    font-size: 10px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5); /* Átlátszó fekete háttér a jobb olvashatóság érdekében */
+    padding: 3px 5px;
+    border-radius: 3px;
+    font-family: Arial, sans-serif;
+    z-index: 1000;
+}
