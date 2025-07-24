@@ -114,14 +114,7 @@
     "group": "Los Santos"
   },
 
-  {
-    "id": 15,
-    "name": "Városháza",
-    "latitude": 886.00, 
-    "longitude": 2676.00,
-    "description": "3db",
-    "group": "Los Santos"
-  },
+
 
   {
     "id": 16,
@@ -150,14 +143,6 @@
     "group": "Los Santos"
   },
 
-  {
-    "id": 19,
-    "name": "LS Kórház",
-    "latitude": 1127.50, 
-    "longitude": 2520.00,
-    "description": "3db",
-    "group": "Los Santos"
-  },
 
   {
     "id": 20,
@@ -269,14 +254,7 @@
     "group": "Los Santos"
   },
 
-  {
-    "id": 32,
-    "name": "Teniszpálya",
-    "latitude": 1217.00, 
-    "longitude": 2304.00,
-    "description": "1db",
-    "group": "Los Santos"
-  },
+
 
   {
     "id": 33,
@@ -386,15 +364,7 @@
   },
   
 
-  {
-    "id": 44,
-    "name": "Montgomery Kórház",
-    "latitude": 2044.50,
-    "longitude":  2552.00,
-    "description": "2db",
-    "group": "Red County"
-  },
-  
+
 
   {
     "id": 45,
@@ -444,14 +414,7 @@
     "group": "Flint County"
   },
 
-  {
-    "id": 50,
-    "name": "APMS",
-    "latitude": 925.00, 
-    "longitude": 913.00,
-    "description": "1db",
-    "group": "Flint County"
-  },
+
   
 
   {
@@ -476,14 +439,7 @@
     "group": "San Fierro"
   },
 
-  {
-    "id": 54,
-    "name": "SeeRing",
-    "latitude": 1863.00,
-    "longitude":  1152.00,
-    "description": "1db",
-    "group": "San Fierro"
-  },
+
   
 
   {
@@ -506,14 +462,7 @@
   },
   
 
-  {
-    "id": 57,
-    "name": "Tűzoltóság",
-    "latitude": 1847.00, 
-    "longitude": 795.00,
-    "description": "1db",
-    "group": "San Fierro"
-  },
+
 
   {
     "id": 58,
@@ -605,14 +554,7 @@
     "group": "San Fierro"
   },
 
-   {
-    "id": 68,
-    "name": "Érces",
-    "latitude": 3233.00, 
-    "longitude": 606.50,
-    "description": "1db",
-    "group": "Tierra Robada"
-  },
+  
 
    {
     "id": 69,
